@@ -22,6 +22,7 @@ ____
 - Level order traversal in spiral form
 - Remove duplicates from a sorted linked list
 - K’th Smallest/Largest Element in Unsorted Array
+- Given a binary tree convert in into it's mirror.
 - Validate if a given string is numeric.
   Examples: </br>
           "0" => true </br>
